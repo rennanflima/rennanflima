@@ -18,7 +18,8 @@
 
  ### About me
 
-- 👯 I’m looking to collaborate on **GesPark**
+- 🔭 I’m currently working on web developer using Python with Django
+- 👯 I’m looking to collaborate on **GesPark**, a software to manager a playroom and children's play area
 
 <!--
 **rennanflima/rennanflima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
